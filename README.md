@@ -1,3 +1,3 @@
 This is My first website
 
-tofugu credit
+tofugu credit for japanese book
