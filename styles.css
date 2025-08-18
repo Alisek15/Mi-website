@@ -53,6 +53,7 @@ body {
 }
 
 #learn-hirigana {
-  width: 500;
+  width: 800;
   height: 500;
+  border-radius: 12;
 }
