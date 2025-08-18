@@ -51,3 +51,8 @@ body {
 .link:hover {
   text-decoration: underline;
 }
+
+#learn-hirigana {
+  width: 500;
+  height: 500;
+}
